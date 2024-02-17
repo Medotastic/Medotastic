@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Medotastic
+- 👋 Hi, I’m @Medo.Code
 - 👀 I’m interested in Python programming, Maths, and listening to music
 - 🌱 I’m currently learning Python programming
 - 💞️ I’m looking to collaborate on ...
